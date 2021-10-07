@@ -1,6 +1,6 @@
 aiohttp==3.7.4 
-requests==2.24.0 
-pytz==2019.1 
+requests==2.26.0 
+pytz==2021.3 
 pytest-asyncio==0.10.0 
 aioresponses==0.6.0 
 mock==3.0.5 
